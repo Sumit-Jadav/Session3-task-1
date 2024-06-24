@@ -1,1 +1,3 @@
-# task3-1-uodate
+# Session3 : Tak 1 (CGPI calculator)
+
+Go to :- 
